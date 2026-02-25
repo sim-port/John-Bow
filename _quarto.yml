@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: /Users/awesometyler/John_Bow
+  output-dir: /Users/awesometyler/John-Bow
 
 website:
   title: "John Pikachu"

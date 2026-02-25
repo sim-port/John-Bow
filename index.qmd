@@ -1,0 +1,37 @@
+---
+title: "John Pikachu"
+about:
+  template: jolla
+  image: images/headshot.png
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/
+    - icon: github
+      text: Github
+      href: https://github.com/
+format:
+  html:
+    toc: false
+---
+
+<span style="font-size: 20px;">Hi, my name is John Pikachu. Welcome to my page! </span>
+ <br><br>
+
+## Education
+<span style="font-size: 18px;">
+University of British Columbia | Vancouver, BC <br> M.Sc in Computer Science | 2024 - 2026</span>
+
+<span style="font-size: 18px;">
+University of British Columbia | Vancouver, BC<br> B.Sc in Computer Science | 2016 - 2021</span><br><br>
+
+## Experience
+<span style="font-size: 18px;">
+Software Development Engineer | Amazon | 2021 - 2024</span>
+
+<span style="font-size: 18px;">
+Product Engineering Inter | Apple | 2021</span>
+

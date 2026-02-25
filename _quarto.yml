@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: /Users/awesometyler/John_Bow
+
+website:
+  title: "John Pikachu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Template1.qmd
+        text: Template1
+      - href: Template2.qmd
+        text: Template2
+      - href: Template3.qmd
+        text: Template3
+      - href: Template4.qmd
+        text: Template4
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

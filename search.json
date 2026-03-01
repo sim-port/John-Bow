@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "John Pikachu",
     "section": "",
-    "text": "Hi, my name is John Pikachu. Welcome to my page!"
+    "text": "Hi, my name is John Pikachu 👋 I build portfolio websites that help people showcase their work and experience."
   },
   {
     "objectID": "index.html#education",
@@ -18,6 +18,76 @@
     "href": "index.html#experience",
     "title": "John Pikachu",
     "section": "Experience",
-    "text": "Experience\n Software Development Engineer | Amazon | 2021 - 2024\n Product Engineering Inter | Apple | 2021"
+    "text": "Experience\n Software Development Engineer | Northshore Analytics Ltd. | 2021 - Present\n Product Engineering Inter | Innovatech Solutions Inc. | 2020 - 2021"
+  },
+  {
+    "objectID": "Template1.html",
+    "href": "Template1.html",
+    "title": "John Pikachu",
+    "section": "",
+    "text": "Hi, my name is John Pikachu 👋. I build portfolio websites that help people showcase their work and experience."
+  },
+  {
+    "objectID": "Template1.html#education",
+    "href": "Template1.html#education",
+    "title": "John Pikachu",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia — Vancouver, BC M.Sc. in Computer Science | 2024 – 2026\nUniversity of British Columbia — Vancouver, BC B.Sc. in Computer Science | 2016 – 2021"
+  },
+  {
+    "objectID": "Template1.html#experience",
+    "href": "Template1.html#experience",
+    "title": "John Pikachu",
+    "section": "Experience",
+    "text": "Experience\nSoftware Development Engineer Northshore Analytics Ltd. | 2021 – Present\n\nDeveloped data-driven software solutions\nMaintained and improved internal systems\n\n\nProduct Engineering Intern Innovatech Solutions Inc. | 2020 – 2021\n\nAssisted in product development and testing\nSupported engineering design implementation"
+  },
+  {
+    "objectID": "Template2.html",
+    "href": "Template2.html",
+    "title": "John Pikachu",
+    "section": "",
+    "text": "Hi, I’m John Pikachu.\nI build portfolio websites that help people showcase their work and experience."
+  },
+  {
+    "objectID": "Template2.html#hello",
+    "href": "Template2.html#hello",
+    "title": "John Pikachu",
+    "section": "",
+    "text": "Hi, I’m John Pikachu.\nI build portfolio websites that help people showcase their work and experience."
+  },
+  {
+    "objectID": "Template2.html#education",
+    "href": "Template2.html#education",
+    "title": "John Pikachu",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia — Vancouver, BC\nM.Sc. in Computer Science | 2024 – 2026\nUniversity of British Columbia — Vancouver, BC\nB.Sc. in Computer Science | 2016 – 2021"
+  },
+  {
+    "objectID": "Template2.html#experience",
+    "href": "Template2.html#experience",
+    "title": "John Pikachu",
+    "section": "Experience",
+    "text": "Experience\nSoftware Development Engineer\nNorthshore Analytics Ltd. | 2021 – Present\n\nBuilt software for data-driven workflows\n\nCollaborated with engineering teams\n\nImproved internal system performance\n\n\nProduct Engineering Intern\nInnovatech Solutions Inc. | 2020 – 2021\n\nSupported product development and testing\n\nAssisted engineering implementation"
+  },
+  {
+    "objectID": "Template3.html",
+    "href": "Template3.html",
+    "title": "John Pikachu",
+    "section": "",
+    "text": "Hi, my name is John Pikachu 👋. I build portfolio websites that help people showcase their work and experience."
+  },
+  {
+    "objectID": "Template3.html#education",
+    "href": "Template3.html#education",
+    "title": "John Pikachu",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia — Vancouver, BC M.Sc. in Computer Science | 2024 – 2026\nUniversity of British Columbia — Vancouver, BC B.Sc. in Computer Science | 2016 – 2021"
+  },
+  {
+    "objectID": "Template3.html#experience",
+    "href": "Template3.html#experience",
+    "title": "John Pikachu",
+    "section": "Experience",
+    "text": "Experience\nSoftware Development Engineer Northshore Analytics Ltd. | 2021 – Present\n\nDeveloped data-driven software solutions\nMaintained and improved internal systems\n\n\nProduct Engineering Intern Innovatech Solutions Inc. | 2020 – 2021\n\nAssisted in product development and testing\nSupported engineering design implementation"
   }
 ]

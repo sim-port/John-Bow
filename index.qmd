@@ -13,12 +13,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@example.com
 format:
   html:
     toc: false
 ---
 
-<span style="font-size: 20px;">Hi, my name is John Pikachu. Welcome to my page! </span>
+<span style="font-size: 20px;">Hi, my name is John Pikachu 👋<br> I build portfolio websites that help people showcase their work and experience. </span>
  <br><br>
 
 ## Education
@@ -30,8 +33,9 @@ University of British Columbia | Vancouver, BC<br> B.Sc in Computer Science | 20
 
 ## Experience
 <span style="font-size: 18px;">
-Software Development Engineer | Amazon | 2021 - 2024</span>
+Software Development Engineer | Northshore Analytics Ltd. | 2021 - Present</span>
+
 
 <span style="font-size: 18px;">
-Product Engineering Inter | Apple | 2021</span>
+Product Engineering Inter | Innovatech Solutions Inc. | 2020 - 2021</span>
 

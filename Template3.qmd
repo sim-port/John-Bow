@@ -1,0 +1,52 @@
+---
+title: "John Pikachu"
+about:
+  template: trestles
+  image: images/headshot.png
+  image-width: 270px
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@example.com
+format:
+  html:
+    toc: false
+---
+
+</br>
+Hi, my name is **John Pikachu 👋**.
+</br></br>I build portfolio websites that help people showcase their work and experience.
+
+---
+
+## Education
+
+**University of British Columbia** — Vancouver, BC
+*</br>M.Sc. in Computer Science* | 2024 – 2026
+
+**University of British Columbia** — Vancouver, BC
+*</br>B.Sc. in Computer Science* | 2016 – 2021
+
+---
+
+## Experience
+
+**Software Development Engineer**
+</br>Northshore Analytics Ltd. | 2021 – Present
+
+- Developed data-driven software solutions
+- Maintained and improved internal systems
+
+---
+
+**Product Engineering Intern**
+</br>Innovatech Solutions Inc. | 2020 – 2021
+
+- Assisted in product development and testing
+- Supported engineering design implementation

@@ -7,15 +7,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: Template1.qmd
         text: Template1
-      - href: Template2.qmd
+      - href: Template2.html
         text: Template2
       - href: Template3.qmd
         text: Template3
-      - href: Template4.qmd
-        text: Template4
+
 
 format:
   html:
